@@ -54,3 +54,11 @@ https://damp-dusk-55729.herokuapp.com/rest/peticiones/camaracomercio/NIT
 
 Donde NIT es de la modalidad xxxxxxxxx-x, siendo x cualquier número entre 0 y 9.
 
+##API Productos (Supermercados/Almacenes deportivos)
+
+Recursos:
+
+https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/232151289-0
+https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/132551289-0
+https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/332351289-0
+
