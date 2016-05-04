@@ -1,8 +1,10 @@
 
 #Servicios externos
+
+Dudas o solicitudes por favor contactar a Andrés Barrero: [andres.barrero@mail.escuelaing.edu.co](mailto:andres.barrero@mail.escuelaing.edu.co)
+
 ## API Pasarela de pagos
 
-Dudas o solicitudes por favor contactar a Andrés Barrero: andres.barrero@mail.escuelaing.edu.co
 
 ####Consulta transacciones realizadas:
 
