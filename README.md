@@ -2,6 +2,8 @@
 #Servicios externos
 ## API Pasarela de pagos
 
+Dudas o solicitudes por favor contactar a Andrés Barrero: andres.barrero@mail.escuelaing.edu.co
+
 ####Consulta transacciones realizadas:
 
 GET http://paymentsgateway.herokuapp.com/rest/payments/transactions
@@ -58,7 +60,7 @@ Donde NIT es de la modalidad xxxxxxxxx-x, siendo x cualquier número entre 0 y 9
 
 Recursos:
 
-https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/232151289-0
-https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/132551289-0
-https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/332351289-0
+* https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/232151289-0
+* https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/132551289-0
+* https://damp-dusk-55729.herokuapp.com/rest/peticiones/proveedoresysupermecados/332351289-0
 
