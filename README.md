@@ -51,12 +51,24 @@ https://damp-dusk-55729.herokuapp.com/rest/peticiones/invima/NIT
 
 Donde NIT es de la modalidad xxxxxxxxx-x, siendo x cualquier número entre 0 y 9.
 
+Ejemplos:
+ * Caso exitoso con NIT 123456789-8.
+
 ##API Cámara de comercio
 
 Recurso:
 https://damp-dusk-55729.herokuapp.com/rest/peticiones/camaracomercio/NIT
 
 Donde NIT es de la modalidad xxxxxxxxx-x, siendo x cualquier número entre 0 y 9.
+
+Los casos en los cuales de NIT no es válido, es cuando los dígitos colocados en las posiciones 1, 2, 3, 8, 10, no son números pares; claro trabajando una escala de 0<=x<n, siendo “n” la longitud del NIT, exceptuando la posición 9, ya que esta posición está reservada para el símbolo "-".
+
+Ejemplos:
+  * Caso exitoso con NIT 222222222-2.
+  * Caso exitoso con NIT 124635798-8.
+  * Caso fallido con NIT 135222227-9.
+  * Caso fallido con NIT 444226667-9.
+
 
 ##API Productos (Supermercados/Almacenes deportivos)
 
